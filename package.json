@@ -1,0 +1,8 @@
+{
+    "name": "standup-bot",
+    "version": "1.0.0",
+    "description": "Perform scheduled standups for mental health reasons.",
+    "main": "src/main.js",
+    "author": "Evan Tellep",
+    "dependencies": {}
+}
