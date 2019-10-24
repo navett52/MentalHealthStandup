@@ -4,5 +4,8 @@
     "description": "Perform scheduled standups for mental health reasons.",
     "main": "src/main.js",
     "author": "Evan Tellep",
-    "dependencies": {}
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.2.1"
+    }
 }
